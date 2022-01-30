@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Carmel-Monga
-- 👀 I’m a 2nd year Computer Science student at @iubh
+- 👀 I’m a 2nd year Computer Science Student at @iubh
 - 🌱 I’m currently learning the java programming language.
 - 🌱 I'm proficient in Java, Pythion, and Javascript.
 - 💞️ I’m looking to collaborate on any javascript, python, and Java projects.
