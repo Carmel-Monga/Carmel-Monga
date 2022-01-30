@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Carmel-Monga
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning the java programming language
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a 2nd year Computer Science student at @iubh
+- 🌱 I’m currently learning the java programming language.
+- 🌱 I'm proficient in Java, Pythion, and Javascript.
+- 💞️ I’m looking to collaborate on any javascript, python, and Java projects.
 - 📫 reach me on carmel.inbox@gmail.com and +243851611005
 
 <!---
