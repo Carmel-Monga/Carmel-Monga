@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Carmel-Monga
 - 👀 I’m a Computer Science Student at @Goldsmiths - Univrsity of London
+- I currently work as an IT Project Manager at Alfred H Knight.
 - 🌱 I am a Google Apps Scripts developper and Like talking about Businness and Tech
 - 🌱 I'm proficient in Java, Python, and Javascript.
 - 💞️ I’m looking to collaborate on any javascript, python, and Java projects. Brind-It-On
